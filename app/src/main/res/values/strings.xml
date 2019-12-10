@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kuy Lomba</string>
+    <string name="contest_thumbnail">Thumbnail Lomba</string>
+    <string name="chevron_icon">chevron_icon</string>
+</resources>
